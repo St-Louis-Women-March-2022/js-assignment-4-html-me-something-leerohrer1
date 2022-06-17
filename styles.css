@@ -41,7 +41,7 @@ body {
 }
 
 #mainHeading {
-  color: rgb(182, 1, 1);
+  color: red;
 }
 
 h1 {
@@ -85,7 +85,7 @@ h2  {
 }
 
 #testP.funParagraph {
-  color: rgb(26, 99, 26);
+  color: green;
   font-weight: 600;
 }
 
